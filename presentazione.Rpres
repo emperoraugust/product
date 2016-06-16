@@ -17,8 +17,8 @@ table(iris$Species)
 The application
 ========================================================
 These slides are part of a project for the Data Science Specialization on Coursera. The  first part consists in a shiny web app. You can find it in the following urls:
-- [Web App Link](http://ciao.it)
-- [Source code](http://ciao.it)
+- [Web App Link] (https://emperoraugust.shinyapps.io/product/)
+- [Source code] (https://github.com/emperoraugust/product)
 
 The Web App predicts the specie of a iris flower, in according with the dimensions of its Sepal and Petal, inserted by the user. 
 
